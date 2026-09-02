@@ -1,0 +1,10 @@
+Kinetic Coach/
+│
+├── app.py
+├── avatar.py
+├── requirements.txt
+├── README.md
+├── .gitignore
+│
+└── .streamlit/
+    └── secrets.toml.example
